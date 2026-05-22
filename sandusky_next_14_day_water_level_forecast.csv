@@ -1,0 +1,15 @@
+date,forecast_day,forecast_precip_mm,predicted_wl_m,water_level_stage,runoff_reduction_10pct_predicted_wl_m,runoff_reduction_10pct_water_level_stage,runoff_reduction_20pct_predicted_wl_m,runoff_reduction_20pct_water_level_stage,storage_2_5mm_predicted_wl_m,storage_2_5mm_water_level_stage,storage_5mm_predicted_wl_m,storage_5mm_water_level_stage
+2026-05-22,1,2.74,0.82,Action stage,0.82,Action stage,0.82,Action stage,0.81,Action stage,0.81,Action stage
+2026-05-23,2,33.71,0.79,Action stage,0.78,Action stage,0.77,Action stage,0.76,Action stage,0.75,Action stage
+2026-05-24,3,1.45,1.21,Action stage,1.13,Action stage,1.10,Action stage,1.11,Action stage,1.10,Action stage
+2026-05-25,4,0.00,1.25,Action stage,1.21,Action stage,1.17,Action stage,1.19,Action stage,1.18,Action stage
+2026-05-26,5,0.00,1.06,Action stage,1.06,Action stage,1.03,Action stage,1.02,Action stage,1.02,Action stage
+2026-05-27,6,0.02,0.86,Action stage,0.87,Action stage,0.85,Action stage,0.85,Action stage,0.85,Action stage
+2026-05-28,7,0.00,0.73,Action stage,0.74,Action stage,0.74,Action stage,0.76,Action stage,0.77,Action stage
+2026-05-29,8,0.00,0.64,Action stage,0.65,Action stage,0.68,Action stage,0.69,Action stage,0.71,Action stage
+2026-05-30,9,0.00,0.59,Action stage,0.60,Action stage,0.62,Action stage,0.64,Action stage,0.65,Action stage
+2026-05-31,10,0.00,0.56,Action stage,0.58,Action stage,0.58,Action stage,0.59,Action stage,0.60,Action stage
+2026-06-01,11,0.00,0.55,Action stage,0.56,Action stage,0.56,Action stage,0.57,Action stage,0.58,Action stage
+2026-06-02,12,0.00,0.54,Action stage,0.54,Action stage,0.54,Action stage,0.55,Action stage,0.55,Action stage
+2026-06-03,13,0.00,0.52,Action stage,0.52,Action stage,0.52,Action stage,0.55,Action stage,0.54,Action stage
+2026-06-04,14,0.00,0.53,Action stage,0.53,Action stage,0.53,Action stage,0.55,Action stage,0.54,Action stage
