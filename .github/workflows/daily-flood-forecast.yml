@@ -2,16 +2,6 @@ name: Daily Flood Forecast
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - "version_9.py"
-      - "requirements.txt"
-      - "input_*.csv"
-      - "Precipitation/**"
-      - "Watershed Shapefile/**"
-      - ".github/workflows/daily-flood-forecast.yml"
   schedule:
     # GitHub schedules use UTC. This is 1:00 AM EST.
     - cron: "0 6 * * *"
@@ -37,7 +27,7 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       - name: Run flood forecast
-        run: python version_9.py
+        run: python version_8.py
 
       - name: Commit updated model outputs
         run: |
